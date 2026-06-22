@@ -24,6 +24,7 @@ We encourage pull requests that:
 - Add documentation or clarify the code comments.
 
 **Please follow these steps for your PR:**
+
 1. Fork the repository.
 2. Create a new branch for your feature (`git checkout -b feature/amazing-feature`).
 3. Commit your changes (`git commit -m 'Add some amazing feature'`).
