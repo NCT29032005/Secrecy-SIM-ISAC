@@ -39,3 +39,17 @@ If this work assists your research, please cite:
   author={Nguyen Cao Truong et al.},
   year={2026}
 }
+
+## Simulation Results
+
+The following figures illustrate the performance of the proposed SIM-ISAC system under various parameters:
+
+| Convergence Analysis | Impact of SIM Layers |
+| :---: | :---: |
+| ![Convergence](images/fig1.png) | ![SIM Layers](images/fig2.png) |
+| *Figure 1: Algorithm Convergence* | *Figure 2: Secrecy Rate vs. SIM Layers* |
+
+| Transmit Power Impact | Sensing Threshold Impact |
+| :---: | :---: |
+| ![Power Impact](images/fig3.png) | ![Gamma Impact](images/fig4.png) |
+| *Figure 3: WSR vs. Transmit Power* | *Figure 4: WSR vs. Sensing Threshold* |
