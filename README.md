@@ -44,11 +44,3 @@ The following figures illustrate the performance of the proposed SIM-ISAC system
 ![Figure 3: WSR vs. Transmit Power](output/figure/Figure_3_Transmit_Power.png)  
 ![Figure 4: WSR vs. Sensing Threshold](output/figure/Figure_4_Sensing_Threshold.png)
 
-## Citation
-If this work assists your research, please cite:
-```bibtex
-@article{NguyenCaoTruong_ISAC_SIM,
-  title={Stacked Intelligent Metasurfaces for Enhanced Secrecy in Integrated Sensing and Communication Systems},
-  author={Nguyen Cao Truong et al.},
-  year={2026}
-}
