@@ -16,7 +16,7 @@ This project investigates the application of Stacked Intelligent Metasurfaces (S
 
 ## Repository Structure
 - `/output/`: Stores simulation results (`.mat`) and exported figures (`.pdf`).
-- `/SIM_ISAC_config_Secrecy.m`: System configuration file (contains all simulation parameters).
+- `/SIM_ISAC_config_Secrecy.m`: System configuration file.
 - `Research___Secrecy_SIM_ISAC__Conference.pdf`: The full research paper accompanying this code.
 - `Main_P*.m`: Main scripts for the four simulation parts.
 - `Optimize_*.m`: Optimization algorithms (SCA and GA).
@@ -27,9 +27,9 @@ This project investigates the application of Stacked Intelligent Metasurfaces (S
 - **CVX Toolbox** (with **MOSEK** solver installed for optimal convex optimization results).
 
 ## How to Run
-1. **Configure:** Open `SIM_ISAC_config_Secrecy.m` to adjust system parameters (number of antennas, iterations, layers, etc.).
+1. **Configure:** Open `SIM_ISAC_config_Secrecy.m` to adjust system parameters.
 2. **Execute:** Run the `Main_P*.m` files sequentially to generate data for each scenario.
-3. **Visualize:** Run `Plot_Results_Secrecy.m` to automatically process the output data and generate professional plots in the `/output/figure/` directory.
+3. **Visualize:** Run `Plot_Results_Secrecy.m` to automatically process the output data and generate professional plots.
 
 ## Citation
 If this work assists your research, please cite:
@@ -39,17 +39,3 @@ If this work assists your research, please cite:
   author={Nguyen Cao Truong et al.},
   year={2026}
 }
-
-## Simulation Results
-
-The following figures illustrate the performance of the proposed SIM-ISAC system under various parameters:
-
-| Convergence Analysis | Impact of SIM Layers |
-| :---: | :---: |
-| ![Convergence](images/fig1.png) | ![SIM Layers](images/fig2.png) |
-| *Figure 1: Algorithm Convergence* | *Figure 2: Secrecy Rate vs. SIM Layers* |
-
-| Transmit Power Impact | Sensing Threshold Impact |
-| :---: | :---: |
-| ![Power Impact](images/fig3.png) | ![Gamma Impact](images/fig4.png) |
-| *Figure 3: WSR vs. Transmit Power* | *Figure 4: WSR vs. Sensing Threshold* |
