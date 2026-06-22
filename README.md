@@ -1,5 +1,13 @@
 # Stacked Intelligent Metasurfaces (SIM) for Secure ISAC Systems
 
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2023a%2B-orange)](https://mathworks.com)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+**[[README](README.md)] — [[Contributing](CONTRIBUTING.md)] — [[License](LICENSE)]**
+
+---
+# Stacked Intelligent Metasurfaces (SIM) for Secure ISAC Systems
+
 This repository contains the MATLAB implementation and supporting documents for the research paper: **"Stacked Intelligent Metasurfaces for Enhanced Secrecy in Integrated Sensing and Communication Systems."**
 
 ## Overview
