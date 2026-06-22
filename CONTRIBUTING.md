@@ -35,4 +35,4 @@ We encourage pull requests that:
 By participating in this project, you agree to maintain a respectful and constructive atmosphere. We appreciate any contributions that help advance the research in the field of SIM-ISAC systems.
 
 ## Contact
-If you have questions regarding the theoretical model or the MATLAB implementation, please feel free to reach out via [your-email-address] or open a GitHub discussion.
+If you have questions regarding the theoretical model or the MATLAB implementation, please feel free to reach out via [nguyencaotruong911@gmail.com] or open a GitHub discussion.
