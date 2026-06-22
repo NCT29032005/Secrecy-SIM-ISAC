@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this source code or simulation results from this project, please cite both the research paper and this repository as follows."
+title: "Stacked Intelligent Metasurfaces for Enhanced Secrecy in Integrated Sensing and Communication Systems"
+authors:
+  - family-names: "Nguyen"
+    given-names: "Cao Truong"
+  - family-names: "Nguyen"
+    given-names: "Huy T."
+  - family-names: "Hung"
+    given-names: "Hoang Tuan"
+  - family-names: "Nguyen"
+    given-names: "Hoa T."
+date-released: 2026-06-22
+url: "https://github.com/your-username/your-repo-name"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Nguyen"
+    given-names: "Cao Truong"
+  - family-names: "Nguyen"
+    given-names: "Huy T."
+  - family-names: "Hung"
+    given-names: "Hoang Tuan"
+  - family-names: "Nguyen"
+    given-names: "Hoa T."
+  title: "Stacked Intelligent Metasurfaces for Enhanced Secrecy in Integrated Sensing and Communication Systems"
+  year: 2026
